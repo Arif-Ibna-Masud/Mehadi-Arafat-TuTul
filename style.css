@@ -1,0 +1,321 @@
+h1{
+    font-size: 50px;
+}
+
+.a1{
+    color: rgb(27, 52, 192);
+}
+span{
+    color: rgb(22, 40, 207)
+}
+
+.blue{
+    color: aliceblue;
+    background-color: rgb(46, 55, 184);
+    border-radius: 0px 60px;
+    padding: 7px 18px;
+}
+.a4{
+    color: rgb(46, 55, 184);
+    background-color: rgb(62, 202, 212);
+    border-radius: 70px 0px;
+    padding: 20px 10px;
+}
+.orange{
+    font-size: 19px;
+    color:rgb(74, 0, 192)
+}
+
+.my{
+    color: rgb(27, 52, 192);
+}
+
+section{
+    display: flex;
+}
+
+.half-witdh{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-witdh img{
+    margin-top: 13%;
+    width: 100%;
+    padding-left: 1%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(42, 42, 209), rgb(27, 168, 179));
+    color: rgb(255, 255, 255);
+    padding: 10px 16px;
+    border-radius: 0px 90px;
+}
+
+
+
+
+
+
+.pro{
+    color: rgb(30, 223, 223);
+}
+.fg{
+    border-radius: 50px 2px;
+    background-color: rgb(85, 224, 224);
+    color: rgb(255, 255, 255)
+}
+
+.prog{
+    background-color: rgb(87, 87, 177);
+    color: rgb(29, 207, 207);
+    border-radius: 0px 90px;
+    padding: 10px 10px;
+}
+
+.f{
+    color: rgb(34, 59, 197);
+}
+.orange1{
+    color: rgb(13, 122, 224)
+}
+.no-color{
+    font-size: 19px;
+    color:rgb(0, 4, 255)
+}
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(62, 214, 74),rgb(0, 132, 255));
+    color: rgb(255, 255, 255);
+    padding: 10px 16px;
+    border-radius: 90px 0px;
+}
+
+
+
+
+
+
+.oran{
+    color: rgb(255, 255, 255) ;
+    border-radius: 90px 0px;
+    padding: 5px 25px;
+    background-color: rgb(194, 49, 223);
+}
+.orange2{
+    font-size: 19px;
+    color: rgb(6, 182, 252);
+}
+.pubg{
+    color: rgb(218, 19, 211)
+}
+.pub{
+    color: rgb(24, 27, 209)
+}
+
+.pu{
+    color: rgb(0, 183, 255);
+    background-color: rgb(226, 42, 196);
+    border-radius: 90px 0px;
+    padding: 6px 15px;
+    font-size: 45px;
+}
+.pubc{
+    color: rgb(236, 38, 24);
+}
+
+.p{
+    color: rgb(52, 40, 218);
+}
+
+.gold{
+    color: rgb(196, 50, 191)
+}
+
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(223, 147, 216),rgb(15, 192, 236));
+    color: rgb(255, 255, 255);
+    padding: 10px 16px;
+    border-radius: 0px 90px;
+}
+
+
+
+
+
+
+
+.rtr{
+    color: rgb(0, 174, 255);
+    background-color: rgb(255, 255, 255);
+    padding: 1px 25px;
+    border-radius: 20px 0px;
+}
+
+.zzz{
+    color: rgb(255, 255, 255);
+    background-color: rgb(155, 85, 219);
+    border-radius: 90px 0px;
+    padding: 7px 30px; 
+}
+
+
+.bike1{
+    color: rgb(255, 68, 0)
+}
+
+.bike2{
+    color:  rgb(247, 69, 5)
+}
+
+.bike3{
+    color: darkorchid;
+}
+
+
+.bike4{
+    color: rgb(12, 121, 218);
+}
+.bike5{
+    padding: 5px 25px;
+    border-radius: 90px 0px;
+    background-color: rgb(75, 73, 74);
+    color:  rgb(255, 94, 0)
+}
+.bike6{
+    font-size: 19px;
+    color: rgb(148, 27, 235);
+}
+
+.bike7{
+    color: rgb(255, 94, 0)
+}
+
+.link-button3{
+    text-decoration:none;
+    background-image: linear-gradient(rgb(150, 83, 212), rgb(216, 148, 84));
+    border-radius: 90px 0px;
+    padding: 10px 16px;
+    background-color: orangered;
+    color: aliceblue;
+}
+
+
+
+
+
+.experience{
+    background: url(image/aaaaaa.png) no-repeat;
+background-size: 100px;
+}
+
+.experience{
+    color: aliceblue;
+    background-color: rgb(133, 49, 230);
+    border-radius: 0px 60px;
+    padding: 7px 19px;
+    margin-right: 500px;
+}
+
+.experience-bro{
+    color: rgb(255, 187, 0);
+    background-color: rgb(69, 79, 226);
+    border-radius: 100px 0px;
+    padding: 9px 25px; }
+
+
+
+
+
+.experience-1{
+    width: 50%;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    border-left: 10px solid rgb(0, 77, 243);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+}
+
+    .v50{
+        color: rgb(34, 59, 197);
+        font: bold;
+        text-decoration: solid;
+    }
+
+    .gf{
+        background-color: rgb(40, 84, 207); 
+        padding: 10px 10px;
+        border-radius: 70px 1px;
+        color: rgb(255, 255, 255);
+    }
+
+
+
+
+
+
+    .experience-2{
+        width: 50%;
+        box-shadow: 5px 5px 5px gray;
+        border-radius: 20px;
+        border-left: 10px solid rgb(109, 19, 211);
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 5%;
+
+    }
+    .v60{
+        color: rgb(109, 19, 211); 
+        font: bold;
+        text-decoration: solid;
+    }
+    .gf1{
+        border-radius: 70px 1px;
+        padding: 10px 10px;
+        background-color: rgb(124, 53, 206);  
+        color: rgb(255, 255, 255);
+    }
+
+    .immi{
+        display: flex;
+        width: 82%;
+        box-shadow: 5px 5px 5px rgb(120, 138, 240);
+        border-radius: 20px;
+        border-top: 10px solid rgb(40, 84, 207); 
+        border-right: 10px solid rgb(40, 84, 207);
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 5%;
+    }
+
+    .fast_as_f{
+        color: rgb(255, 102, 0);  
+    }
+
+.Register{
+    color: rgb(15, 115, 230);
+    background-color: rgb(255, 255, 255);
+    border-radius: 0px 100px;
+    padding: 0px 200px;
+}
+.now{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 115, 0); 
+    border-radius: 10000px 0px;
+    padding: 5px 70px;
+}
+
+    footer p {
+        color: rgb(248, 0, 0);
+        font-size: larger;
+        text-align: center;
+        font-size: 20px; }
+
+
+        .batton{
+            color: rgb(0, 68, 255);
+        }
